@@ -1,0 +1,80 @@
+.moonji {
+    content: "";
+    
+        height: 300px;
+        width: 300px;
+        position: relative;
+        background: rgb(223, 5, 5);
+        border-radius: 50%;
+        margin: auto;
+        border: 2px solid black;
+    
+    }
+    
+    .kannu1 {
+        height: 60px;
+        width: 50px;
+        position: absolute;
+        background: rgb(73, 172, 230);
+    
+        border-radius: 50%;
+        left: 60px;
+    content: "";
+    
+        top: 70px;
+        border: 3px solid rgb(0, 0, 0);
+    }
+    
+    .kannu2 {
+        height: 60px;
+        width: 50px;
+        position: absolute;
+        background: rgb(73, 172, 230);
+        border-radius: 50%;
+        left: 190px;
+        top: 70px;
+    content: "";
+    
+        border: 3px solid rgb(0, 0, 0);
+    
+    }
+    
+    .karuvili1 {
+        height: 35px;
+        width: 35px;
+        position: absolute;
+        background: rgb(0, 0, 0);
+        border-radius: 50%;
+    content: "";
+    left: 11px;
+        top: 17px;
+        border: 3px solid black;
+    
+    }
+    
+    .karuvili2 {
+        height: 35px;
+    content: "";
+    width: 35px;
+        position: absolute;
+        background: rgb(0, 0, 0);
+        border-radius: 50%;
+        left: 0px;
+        top: 17px;
+        border: 3px solid rgb(0, 0, 0);
+    
+    }
+    
+    .vaai {
+        position: absolute;
+        width: 190px;
+        height: 300px;
+        border: 7px solid transparent;
+        border-bottom: 10px solid black;
+        border-radius: 100%;
+        content: "";
+        top: -25%;
+        left: 45px;
+        border-top: 1px solid black;
+    }
+   
